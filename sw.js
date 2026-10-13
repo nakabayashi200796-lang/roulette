@@ -1,5 +1,5 @@
 /* ルーレット — 電波が無くても開けるようにするための小さな仕掛け */
-const V = "roulette-v1";
+const V = "roulette-v2";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icon-32.png", "./icon-180.png", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", e => {
